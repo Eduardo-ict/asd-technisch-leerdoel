@@ -1,6 +1,6 @@
-mod network;
-mod rpc;
 mod dto;
+mod rpc;
+mod network;
 
 fn main() {
 
